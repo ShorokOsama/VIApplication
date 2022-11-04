@@ -1,0 +1,15 @@
+stop_sign
+person
+bicycle
+bus
+truck
+car
+motorbike
+reflective_cone
+ashcan
+warning_column
+spherical_roadblock
+pole
+dog
+tricycle
+fire_hydrant
